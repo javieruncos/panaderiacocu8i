@@ -1,0 +1,66 @@
+
+
+
+
+
+
+.img-filtros{
+    filter: sepia();
+}
+
+
+.img-filtros:hover{
+  filter: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width:767px){
+    .banner-responsive{
+        height: 300px;
+        object-fit: cover;
+    }
+}
